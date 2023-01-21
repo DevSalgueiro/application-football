@@ -56,7 +56,7 @@ function App() {
 
   useEffect ( () => {
 
-    fetch ('http://localhost:3000/produtos').then ( async result => {
+    fetch ('http://localhost:3000/jogadores').then ( async result => {
       setList ( await result.json() )
     })
 
