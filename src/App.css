@@ -8,14 +8,11 @@ table th, table td{
   text-align: center;
 }
 
-table th{
+
+.click{
   cursor: pointer;
   
 }
 
-table th:hover {
-  background: rgb(102, 102, 102);
-  border-radius: 5px;
-  color: #fff;
 
-}
+

@@ -1,5 +1,12 @@
 import "./App.css";
 import React, { useEffect, useState } from 'react';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import TooltipPositionedExample from "./OverlayTrigger";
+import TooltipPositionedExample1 from "./OverlayTrigger1";
+import TooltipPositionedExample2 from "./OverlayTrigger2";
+
+
+
 
 function Registros({ list = [] }){
 
@@ -17,18 +24,14 @@ function Registros({ list = [] }){
  })
 
 
-
-
-
-
-  return <table>
+  return <div  className="table-responsive"><table className="table table-bordered">
 
     <thead>
-      <tr>
-      <th onClick={ e => handleOrder('foto')}></th>
-        <th onClick={ e => handleOrder('player')}>Jogador</th>
-        <th onClick={ e => handleOrder('team')}>Time</th>
-        <th onClick={ e => handleOrder('level')}>Level</th>
+      <tr className="table-responsive">
+      <th className="table-success"></th>
+        <th  className="click table-success" onClick={ e => handleOrder('player')}><TooltipPositionedExample></TooltipPositionedExample></th>
+        <th className="click table-success h5" onClick={ e => handleOrder('team')}><TooltipPositionedExample1></TooltipPositionedExample1></th>
+        <th className="click table-success h5" onClick={ e => handleOrder('level')}><TooltipPositionedExample2></TooltipPositionedExample2></th>
       </tr>
     </thead>
 
@@ -36,10 +39,10 @@ function Registros({ list = [] }){
       {
         list.map(({foto, player, level, team}) => {
           return <tr key={player}>
-              <td><img src={foto} alt="Jogador"/></td>
-              <td>{player}</td>
-              <td>{team}</td>
-              <td>{level}</td>
+              <td><img src={foto} alt="Jogador" className="img-fluid" /></td>
+              <td className="py-5 table-light">{player}</td>
+              <td className="py-5">{team}</td>
+              <td className="py-5 table-light">{level}</td>
               
           </tr>
         })
@@ -48,6 +51,7 @@ function Registros({ list = [] }){
     </tbody>
 
   </table>
+  </div>
 }
 
 function App() {
