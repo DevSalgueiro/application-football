@@ -1,2 +1,3 @@
 # Em desenvolvimento...
-![aplic](https://user-images.githubusercontent.com/111023661/213942900-981bbee3-0a0b-429c-a027-78cbafdd46c1.jpg)
+![aplic](https://user-images.githubusercontent.com/111023661/213943003-20e51679-8492-4c13-b39b-12c1ed76be39.jpg)
+
