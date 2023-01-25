@@ -7,4 +7,5 @@ Aplicação desenvolvida para o usuário visualizar a ordem crescente e descrent
 # Versão Mobile
 Dimensçoes 414 x 736 (Iphone 6/7/8 Plus)
 
-![mobile](https://user-images.githubusercontent.com/111023661/214702992-92cc7b7d-7ffc-4360-a8d1-fd9e666416e9.JPG)
+![mobile](https://user-images.githubusercontent.com/111023661/214703338-4b776852-347e-4fc2-b8fb-61eb8917d1f1.JPG)
+
