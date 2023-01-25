@@ -13,7 +13,7 @@ function TooltipPositionedExample() {
           placement={placement}
           overlay={
             <Tooltip id={`tooltip-${placement}`}>
-              Clique no botão para organizar o level.
+              Clique para organizar o level.
             </Tooltip>
           }
         >

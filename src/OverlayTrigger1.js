@@ -13,7 +13,7 @@ function TooltipPositionedExample() {
           placement={placement}
           overlay={
             <Tooltip id={`tooltip-${placement}`}>
-              Clique no botão.
+              Clique para organizar os times.
             </Tooltip>
           }
         >
