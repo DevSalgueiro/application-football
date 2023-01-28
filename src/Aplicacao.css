@@ -1,0 +1,30 @@
+table {
+  width: 70% !important;
+  margin: auto;
+  
+}
+
+
+@media (min-width: 300px) and (max-width: 768px){
+  table {
+    width: 100% !important;
+  }
+}
+
+
+table th, table td{
+
+  padding: 20px;
+  text-align: center;
+
+}
+
+
+.click{
+  
+  cursor: pointer;
+  
+}
+
+
+

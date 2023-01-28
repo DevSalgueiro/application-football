@@ -4,7 +4,7 @@
             
             "player": "Ronaldo",
             "team": "Real Madrid",
-            "level": 2000,
+            "level": 850000,
             "foto": "img/1.jpg"
 
         },
@@ -12,7 +12,7 @@
             
             "player": "Zidane",
             "team": "Real Madrid",
-            "level": 1500,
+            "level": 750000,
             "foto": "img/3.jpg"
 
         },
@@ -20,7 +20,7 @@
             
             "player": "Rivaldo",
             "team": "Barcelona",
-            "level": 1000,
+            "level": 600000,
             "foto": "img/5.jpg"
 
         },
@@ -28,7 +28,7 @@
             
             "player": "Maradona",
             "team": "Napoli",
-            "level": 10000,
+            "level": 900000,
             "foto": "img/2.jpg"
 
         },
@@ -36,7 +36,7 @@
             
             "player": "Pele",
             "team": "Santos",
-            "level": 100000,
+            "level": 1000000,
             "foto": "img/6.jpg"
 
         },
@@ -44,7 +44,7 @@
             
             "player": "Messi",
             "team": "Barcelona",
-            "level": 30000,
+            "level": 840000,
             "foto": "img/4.jpg"
 
         }
