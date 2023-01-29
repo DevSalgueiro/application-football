@@ -1,10 +1,10 @@
 import Button from 'react-bootstrap/Button';
 import OverlayTrigger from 'react-bootstrap/OverlayTrigger';
 import Tooltip from 'react-bootstrap/Tooltip';
-import "./OverlayTrigger.css";
+import "./Tooltip.css";
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function TooltipPositionedExample() {
+function TooltipTime() {
   return (
     <>
       {['bottom'].map((placement) => (
@@ -24,4 +24,4 @@ function TooltipPositionedExample() {
   );
 }
 
-export default TooltipPositionedExample;
+export default TooltipTime;

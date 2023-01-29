@@ -1,14 +1,15 @@
 import "./Aplicacao.css";
 import React, { useEffect, useState } from 'react';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import TooltipPositionedExample from "./OverlayTrigger";
-import TooltipPositionedExample1 from "./OverlayTrigger1";
-import TooltipPositionedExample2 from "./OverlayTrigger2";
+
+import TooltipJogador from "./TooltipJogador";
+import TooltipTime from "./TooltipTime";
+import TooltipLevel from "./TooltipLevel";
 
 
 
 
-function Registros({ list = [] }){
+function Ordenar({ list = [] }){
 
 
   const [ order, setOrder ] = useState(1)
@@ -29,9 +30,9 @@ function Registros({ list = [] }){
     <thead>
       <tr>
         <th className="table-success"></th>
-        <th  className="click table-success" onClick={ e => handleOrder('player')}><TooltipPositionedExample></TooltipPositionedExample></th>
-        <th className="click table-success h5" onClick={ e => handleOrder('team')}><TooltipPositionedExample1></TooltipPositionedExample1></th>
-        <th className="click table-success h5" onClick={ e => handleOrder('level')}><TooltipPositionedExample2></TooltipPositionedExample2></th>
+        <th  className="click table-success" onClick={ e => handleOrder('player')}><TooltipJogador></TooltipJogador></th>
+        <th className="click table-success h5" onClick={ e => handleOrder('team')}><TooltipTime></TooltipTime></th>
+        <th className="click table-success h5" onClick={ e => handleOrder('level')}><TooltipLevel></TooltipLevel></th>
       </tr>
     </thead>
 
@@ -54,6 +55,7 @@ function Registros({ list = [] }){
   </div>
 }
 
+
 function Aplicacao() {
 
   const [ list, setList ] = useState ( [] )
@@ -70,7 +72,7 @@ function Aplicacao() {
 
 
   return <div>
-    <Registros list={list} />
+    <Ordenar list={list} />
   </div>
     
 }

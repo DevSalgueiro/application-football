@@ -1,0 +1,25 @@
+form {
+    margin: 0 auto;
+    text-align: left;
+
+}
+
+.plus_input{
+    width: 500px;
+}
+
+@media (min-width:300px) and (max-width:768px){
+    .plus_input{
+        width: 350px;
+    }
+    
+}
+
+.plus_input_estado{
+    width: 185px;
+}
+
+input, textarea, select {
+    display: block;
+    margin-top: 10px;
+}
