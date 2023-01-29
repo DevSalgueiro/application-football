@@ -18,7 +18,7 @@ Aplicação desenvolvida para o usuário visualizar a ordem crescente e decresce
 Dimensões: 414 x 736 (Iphone 6/7/8 Plus)
 <br>
 
-![gf](https://user-images.githubusercontent.com/111023661/215293428-2fceee7d-c9a9-4b08-838d-47e04a985fc3.JPG)
+![sfsdfsd](https://user-images.githubusercontent.com/111023661/215357542-b1567be7-b7f9-4201-aaa2-9216555b9854.jpg)
 
 ![8](https://user-images.githubusercontent.com/111023661/215357405-6d460f78-6a63-43a0-9a9e-0243d2ad77d2.jpg)
 
