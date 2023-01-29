@@ -1,6 +1,6 @@
 # Sobre o projeto
 
-Aplicação desenvolvida para o usuário visualizar a ordem crescente e decrescente, quando clicado nos botões indicados. <br><br>Para os dados serem visualizados foi usado o JSON server, assim conseguimos simular uma API, sendo esses dados adicionados e resgatados no db.json. Também foi criado as rotas das páginas, sendo acessadas no menu NAV acima. Além do Js e React foi utilizado o Bootstrap em alguns elementos, como por exemplo, o tooltip. Já na aplicação na versão mobile, classes do Bootstrap foram adicionadas, por exemplo.
+Aplicação desenvolvida para o usuário visualizar a ordem crescente e decrescente, quando clicado nos botões indicados. <br><br>Para os dados serem visualizados foi usado o JSON server, assim conseguimos simular uma API, sendo esses dados adicionados e resgatados no db.json. Também foi criado as rotas das páginas, acessadas no menu NAV acima. Além do Js e React foi utilizado o Bootstrap em alguns elementos, como por exemplo, o tooltip. Já na aplicação na versão mobile, classes do Bootstrap foram adicionadas, por exemplo.
 
 <br>
 <h3> Versão Desktop </h3>
