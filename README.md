@@ -10,7 +10,7 @@ Aplicação desenvolvida para o usuário visualizar a ordem crescente e decresce
 
 ![Capturar copy](https://user-images.githubusercontent.com/111023661/215357045-5465caf4-9f1b-4f66-9a52-d601dfb46c93.jpg)
 
-<hr>
+<hr><br><br>
 
 # Versão Mobile
 Dimensões: 414 x 736 (Iphone 6/7/8 Plus)
