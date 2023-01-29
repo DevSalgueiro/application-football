@@ -20,7 +20,8 @@ Dimensões: 414 x 736 (Iphone 6/7/8 Plus)
 
 ![gf](https://user-images.githubusercontent.com/111023661/215293428-2fceee7d-c9a9-4b08-838d-47e04a985fc3.JPG)
 
-![5](https://user-images.githubusercontent.com/111023661/215357313-f2b53f96-9a0b-4c6a-8257-c4dc74de85aa.JPG)
+![8](https://user-images.githubusercontent.com/111023661/215357405-6d460f78-6a63-43a0-9a9e-0243d2ad77d2.jpg)
+
 
 
 
