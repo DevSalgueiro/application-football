@@ -6,9 +6,10 @@ Aplicação desenvolvida para o usuário visualizar a ordem crescente e decresce
 
 ![proj01](https://user-images.githubusercontent.com/111023661/215293426-03cf590f-d916-449a-bcdc-639f471f27e5.jpg)
 
-![Capturar](https://user-images.githubusercontent.com/111023661/215356962-60b6b160-ec85-41dd-bbd7-f9b4a5c46f38.JPG)
+![Capturar](https://user-images.githubusercontent.com/111023661/215357039-ee9aba34-b22b-41e1-b628-fea8ff666f57.JPG)
 
-![2](https://user-images.githubusercontent.com/111023661/215356964-399af1d2-2cbd-4770-ba30-d3db31bf27f8.JPG)
+![Capturar copy](https://user-images.githubusercontent.com/111023661/215357045-5465caf4-9f1b-4f66-9a52-d601dfb46c93.jpg)
+
 
 
 # Versão Mobile
