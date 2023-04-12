@@ -1,4 +1,4 @@
-# About the project <i class="flag flag-us"></i>
+# About the project 
 
 Application developed for the user to view ascending and descending order when clicking on the indicated buttons.<br><br>For data visualization, a JSON server was used to simulate an API, with data being added and retrieved from db.json. Page routes were also created, accessed in the NAV menu above. In addition to JS and React, Bootstrap was used for some elements, such as tooltips. Bootstrap classes were also added for mobile version of the application, for example.
 
